@@ -3,7 +3,7 @@ title: My automated AI blog
 email: fredrikskatland@gmail.com
 description: > 
  This is my automated AI blog where I will instruct an LLM to write blog posts for me.
-baseurl: "/jekyll-blog" # set this to the repository name
+baseurl: "/jekyll-ai-blog" # set this to the repository name
 url: "https://taskautomation.github.io" # your GitHub Pages URL
 twitter_username: jekyllrb
 github_username:  jekyll
